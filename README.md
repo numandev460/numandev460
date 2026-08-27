@@ -69,10 +69,16 @@
 
 ---
 
-## 🛠️ Featured Project
+## 🛠️ Featured Projects
 
-**Sound Meter** — React Native decibel measurement app
-Built the core audio processing pipeline (PCM parsing, dBFS-to-dBSPL conversion, sample rate handling, smoothing), designed the Play Store graphics, in final steps toward publishing.
+**[Mood Refresh](https://moodrefresh.com/)** — AI-powered interior design & shoppable furniture platform
+Intelligent ecommerce platform delivering curated, shoppable furniture vision boards backed by real designers.
+
+**[QuestSmith: AI Dungeon Master](https://play.google.com/store/apps/details?id=com.app.questsmith&hl=en)** — AI-powered RPG storytelling app
+Infinite AI-driven RPG adventures with real dice mechanics, companions with persistent memory, AI-generated art, and a full scenario creator — published on Google Play.
+
+**Safarway – Travel Companion Application** — React Native, Node.js, Firebase
+Developed travel-planning features including itinerary management, booking integrations, destination content, and social sharing.
 
 ---
 
