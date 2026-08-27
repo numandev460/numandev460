@@ -77,7 +77,7 @@ Intelligent ecommerce platform delivering curated, shoppable furniture vision bo
 **[QuestSmith: AI Dungeon Master](https://play.google.com/store/apps/details?id=com.app.questsmith&hl=en)** — AI-powered RPG storytelling app
 Infinite AI-driven RPG adventures with real dice mechanics, companions with persistent memory, AI-generated art, and a full scenario creator — published on Google Play.
 
-**Safarway – Travel Companion Application** — React Native, Node.js, Firebase
+**[Safarway – Travel Companion Application](https://play.google.com/store/apps/details?id=com.safarway.app&hl=en)** — React Native, Node.js, Firebase
 Developed travel-planning features including itinerary management, booking integrations, destination content, and social sharing.
 
 ---
