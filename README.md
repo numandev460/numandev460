@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Muhammad Shahzad
+# 🚀 Muhammad Numan
 ### Full-Stack Developer • React Native & Mobile App Development • UI/UX
 
 <p align="center">
