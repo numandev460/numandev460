@@ -87,7 +87,7 @@ Developed travel-planning features including itinerary management, booking integ
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=numandev460&theme=dark&hide_border=false" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=numandev460&theme=dark&hide_border=false" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=numandev460" alt="GitHub Streak" /></a>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=numandev460&theme=dark&layout=compact" />
 </p>
